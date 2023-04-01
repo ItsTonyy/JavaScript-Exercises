@@ -7,4 +7,6 @@ function evenOrOdd(number) {
 }
 
 console.log(evenOrOdd(2))
+console.log(evenOrOdd(3))
 // even
+// odd
