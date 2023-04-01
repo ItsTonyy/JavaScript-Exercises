@@ -5,3 +5,6 @@ function evenOrOdd(number) {
     return 'Odd';
   }
 }
+
+console.log(evenOrOdd(2))
+// even
