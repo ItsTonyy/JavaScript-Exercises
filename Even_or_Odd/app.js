@@ -6,7 +6,7 @@ function evenOrOdd(number) {
   }
 }
 
-console.log(evenOrOdd(2))
-console.log(evenOrOdd(3))
+console.log(evenOrOdd(3456))
+console.log(evenOrOdd(987))
 // even
 // odd
